@@ -1,1 +1,1 @@
-# Diffie-Hellman for cryptography university course
+# Diffie-Hellman for university cryptography course
